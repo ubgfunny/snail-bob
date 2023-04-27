@@ -14,7 +14,7 @@ function fbrqFixUrl(url) {
 
 	url= url.replace("https://cdn.fbrq.io/@orange-games/splash/assets/json/", "json/null.json?");
 
-	console.log("fx--fbrqFixUrl--", url);
+	// console.log("fx--fbrqFixUrl--", url);
 	return url;
 }
 
